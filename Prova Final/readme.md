@@ -19,7 +19,7 @@ O aplicativo proporciona uma experiência descomplicada, apresentando uma interf
 ### Clone Repo
 
 ````
-git clone 
+git clone https://github.com/zairobastos/DesenvolvimentoMobile.git
 ````
 
 ### npm install dependencies
