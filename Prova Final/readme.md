@@ -1,12 +1,14 @@
 # Trabalho Final da Disciplina de Desenvolvimento Mobile
 
+O aplicativo proporciona uma experiência descomplicada, apresentando uma interface inicial com opções de login e cadastro de usuários. Após efetuar o login, os usuários têm a flexibilidade de criar, editar e excluir posts, que desempenham o papel de tarefas. Essa funcionalidade possibilita uma administração eficaz das informações, fornecendo uma plataforma intuitiva para organizar e gerenciar as atividades dos usuários de maneira conveniente. Para aqueles que ainda não possuem cadastro, o aplicativo oferece uma tela dedicada para facilitar o processo de registro.
+
 ## Features
 
-- Authentication
-- CRUD ( Create, Read, Update, Delete )
-- Form validation
-- Redux
-- Firebase
+- Integração com FireBase;
+- Navegação entre telas;
+- Redux ou qualquer outra abordagem de gerenciamento global da aplicação
+  correlata ao Flux;
+- Noções de layout Flex ou Grid.
 
 ## Preview
 
